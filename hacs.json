@@ -1,0 +1,7 @@
+{
+	"name": "paradise_transformer",
+	"domains": ["light"],
+	"render_readme": true,
+	"iot_class": "Local Polling",
+	"content_in_root": true
+}
